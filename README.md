@@ -9,9 +9,9 @@
 | Dataset ID | `899015` |
 | Location | Phoenix |
 | Category | Restaurants |
-| Full dataset size | 2,352 records |
-| Free sample size | 403 records (17.13%) |
-| Last export | 2026-03-31T14:35:43.205173+00:00 |
+| Full dataset size | 4,030 records |
+| Free sample size | 403 records (10.0%) |
+| Last export | 2026-04-14T15:11:47.757849+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-phoenix-arizona-us-sample-899015/releases/download/sample-latest/beamstation_899015_restaurants-us-az_SAMPLE_DIST.csv) |
 
 ## What is in this sample

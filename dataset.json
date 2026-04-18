@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Complete dataset of all active restaurant listings in Phoenix, Arizona with a population of over 1,608k. Filtered by the Restaurants category group, this city-level export covers verified business profiles including ratings, reviews, contact details, and competitive metrics for the local dining market. Refreshed weekly.",
   "config_name": "All Restaurants in Phoenix, Arizona, US",
-  "export_job_id": "58e4f83b-52b7-4c5d-a5ea-7b66c13ccf5a",
+  "export_job_id": "1222b59e-a2ec-4dff-8b84-2795730e52ea",
   "github_org": "Beamstation-Datasets",
   "id_short": 899015,
   "location_name": "Phoenix",
   "location_type": "city",
   "repo_name": "all-restaurants-in-phoenix-arizona-us-sample-899015",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/899015/beamstation_899015_restaurants-us-az_SAMPLE_DIST.csv",
-  "sample_pct": 17.13,
+  "sample_pct": 10.0,
   "sample_records": 403,
   "sample_sha256": "e9a36af180889f15674d518a5597294498258e4fce0a4d50188dd90c658e5614",
   "sample_size_bytes": 1344486,
-  "total_records": 2352,
-  "updated_at": "2026-03-31T14:35:43.205173+00:00"
+  "total_records": 4030,
+  "updated_at": "2026-04-14T15:11:47.757849+00:00"
 }

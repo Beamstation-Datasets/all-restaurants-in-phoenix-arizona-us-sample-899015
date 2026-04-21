@@ -1,6 +1,6 @@
 # All Restaurants in Phoenix, Arizona, US
 
-> Free BeamStation sample export with 403 rows and masked direct-contact fields.
+> Free BeamStation sample export with 366 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `899015` |
 | Location | Phoenix |
 | Category | Restaurants |
-| Full dataset size | 4,030 records |
-| Free sample size | 403 records (10.0%) |
-| Last export | 2026-04-14T15:11:47.757849+00:00 |
+| Full dataset size | 3,668 records |
+| Free sample size | 366 records (9.98%) |
+| Last export | 2026-04-21T16:30:39.583021+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-phoenix-arizona-us-sample-899015/releases/download/sample-latest/beamstation_899015_restaurants-us-az_SAMPLE_DIST.csv) |
 
 ## What is in this sample

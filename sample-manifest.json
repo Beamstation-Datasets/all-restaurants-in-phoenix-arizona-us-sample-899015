@@ -1,12 +1,12 @@
 {
-  "export_job_id": "1222b59e-a2ec-4dff-8b84-2795730e52ea",
+  "export_job_id": "ace3060e-b222-407f-b658-532fca30c625",
   "id_short": 899015,
-  "published_at": "2026-04-18T07:11:58Z",
+  "published_at": "2026-04-21T19:57:07Z",
   "repo_name": "all-restaurants-in-phoenix-arizona-us-sample-899015",
   "sample_asset_name": "beamstation_899015_restaurants-us-az_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/899015/beamstation_899015_restaurants-us-az_SAMPLE_DIST.csv",
-  "sample_records": 403,
-  "sample_sha256": "e9a36af180889f15674d518a5597294498258e4fce0a4d50188dd90c658e5614",
-  "sample_size_bytes": 1344486,
-  "total_records": 4030
+  "sample_records": 366,
+  "sample_sha256": "13ec942e3a00c8500f96eec3746f053f9690167cccc3378dc288ada334ac473d",
+  "sample_size_bytes": 1256056,
+  "total_records": 3668
 }
